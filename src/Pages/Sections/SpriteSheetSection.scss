@@ -1,0 +1,30 @@
+.app-intro-sprite-sheet {
+    position: sticky;
+    top: 40%;
+
+    .intro-sprite-sheet {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    .dump-component {
+        width: 100px;
+        height: 70px;
+        background-color: brown;
+    }
+
+        .intro-sprite-sheet-image {
+            width: 100%;
+            height: 159px;
+            max-width: none;
+            position: absolute;
+            overflow: hidden;
+            top: 0;
+            background-image: url('../../Assets/Images/SpriteSheetSection/spritesheet.png');
+        }
+    }
+
+    
+}
