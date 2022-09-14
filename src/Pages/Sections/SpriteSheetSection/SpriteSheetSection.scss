@@ -1,13 +1,13 @@
 .app-intro-sprite-sheet {
     position: sticky;
-    top: 40%;
+    top: 30%;
 
     .intro-sprite-sheet {
         width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        height: 200px;
+        overflow: hidden;
+        display: block;
+        position: relative;
 
     .dump-component {
         width: 100px;
@@ -16,15 +16,14 @@
     }
 
         .intro-sprite-sheet-image {
-            width: 100%;
+            width: 320px;
             height: 159px;
             max-width: none;
             position: absolute;
             overflow: hidden;
-            top: 0;
-            background-image: url('../../Assets/Images/SpriteSheetSection/spritesheet.png');
+            top: 50%;
+            left: 10px;
+            background-image: url('../../../Assets/Images/SpriteSheetSection/spritesheet.png');
         }
     }
-
-    
 }

@@ -1,5 +1,5 @@
 import './App.scss';
-import SpriteSheetSection from './Sections/SpriteSheetSection';
+import SpriteSheetSection from './Sections/SpriteSheetSection/SpriteSheetSection';
 
 const App = () => {
 
