@@ -9,7 +9,7 @@ const App = () => {
                 <SpriteSheetSection />
             </div>
             
-            Hello World
+            <p>Hello World</p>
         </section>
     )
 }

@@ -1,11 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
+//import SpriteSheetImage from './SpriteSheetImage.jsx';
 import './SpriteSheetSection.scss';
 
 const SpriteSheetSection = () => {
 
     let spriteComponent = useRef(),
-        frameSize = 360,
-        steps = 9,
+        frameSize = 320,
+        steps = 11,
         [frame, setFrame] = useState(1),
         [lastScroll, setLastScroll] = useState(0),
         [backgroundPosition, setBackgroundPosition] = useState(0);
@@ -38,7 +39,8 @@ const SpriteSheetSection = () => {
     return (
         <section className='app-intro-sprite-sheet'>
                 <div className='intro-sprite-sheet'>
-                    <div ref={spriteComponent} className='intro-sprite-sheet-image' style={{backgroundPositionX: '-' + backgroundPosition + 'px'}}/>
+                    {/*<SpriteSheetFinal className='intro-sprite-sheet-image'/>*/}
+                    {<div ref={spriteComponent} className='intro-sprite-sheet-image' style={{backgroundPositionX: '-' + backgroundPosition + 'px'}}/>}
                 </div>
         </section>
     )

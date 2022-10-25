@@ -45,8 +45,35 @@ module.exports = {
                 ]                 
             },
             {
-                test: /\.(png|svg|gif)$/i,
-                type: 'asset/resource'
+                test: /\.(png|gif)$/i,
+                type: 'asset/resource',
+                use: [
+                    {
+                      loader: 'file-loader',
+                      options: {
+                        name: 'images/[hash]-[name].[ext]',
+                      },
+                    },
+                ]
+            },
+            {
+                test: /\.svg$/i,
+                issuer: /\.[jt]sx?$/,
+                use: ['@svgr/webpack'],
+            },
+            {
+                test: /\.(woff|woff2)$/,
+                use: {
+                    loader: 'url-loader',
+                    options: {
+                        limit: 10000,
+                        mimetype: 'application/font-woff',
+                        name: '[name].[ext]',
+                        outputPath: './src/assets/fonts',
+                        publicPath: './src/assets/fonts',
+                        esModule: false
+                    }
+                }
             }
         ]
     },
