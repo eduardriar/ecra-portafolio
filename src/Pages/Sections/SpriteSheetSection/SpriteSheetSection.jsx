@@ -39,7 +39,6 @@ const SpriteSheetSection = () => {
     return (
         <section className='app-intro-sprite-sheet'>
                 <div className='intro-sprite-sheet'>
-                    {/*<SpriteSheetFinal className='intro-sprite-sheet-image'/>*/}
                     {<div ref={spriteComponent} className='intro-sprite-sheet-image' style={{backgroundPositionX: '-' + backgroundPosition + 'px'}}/>}
                 </div>
         </section>

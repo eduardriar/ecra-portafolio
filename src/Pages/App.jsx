@@ -1,5 +1,6 @@
 import './App.scss';
 import SpriteSheetSection from './Sections/SpriteSheetSection/SpriteSheetSection';
+import AboutMeSection from './Sections/AboutMeSection/AboutMeSection';
 
 const App = () => {
 
@@ -8,8 +9,9 @@ const App = () => {
             <div className='app-main-sprite'>
                 <SpriteSheetSection />
             </div>
-            
-            <p>Hello World</p>
+            <div className='app-about-me'>
+                <AboutMeSection />
+            </div>
         </section>
     )
 }
