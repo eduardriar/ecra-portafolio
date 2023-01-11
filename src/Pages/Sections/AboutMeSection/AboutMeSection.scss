@@ -6,22 +6,24 @@
     margin: 0 auto;
 
     h1 {
-        font-size: 25px;
+        font-weight: bolder;
+        font-size: 1.5em;
         letter-spacing: -1px;
     }
 
     p {
         margin: 20px 0;
-        font-family: 'verdana';
+        font-size: 1em;
+        font-family:  Calibri, 'Trebuchet MS', sans-serif;
+        letter-spacing: 1px;
     }
 }
 
 .about-me-section-image {
     width: 200px;
     height: 200px;
-    margin-top: 20px;
-    margin: 25px auto;
+    margin: 20% auto;
     background-color: burlywood;
     border-radius: 50%;
-    box-shadow: -10px 20px 15px black;
+    box-shadow: -10px 20px 15px rgb(138, 138, 138);
 }

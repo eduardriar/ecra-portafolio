@@ -8,6 +8,7 @@ const ArrowAnimated = () => {
             <div className='arrow-element'>
                 <div className='arrow-shape'></div>
             </div>
+            <span>SCROLL DOWN</span>
         </div>
     )
 }
