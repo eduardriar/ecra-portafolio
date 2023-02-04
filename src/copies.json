@@ -1,0 +1,11 @@
+{
+    "aboutMe": {
+        "title": "My name is Eduard Rincon, and I'm a web developer",
+        "content": "Well... As you read, I'm a web developer formed in Universidad de La Sabana in Bogotá - Colombia where I'm currently located. I'm a big fan of building the front-end part of a web page, and also really into solving challenges from it. I'm very curious about learning new technologies and passionate from writing code that everyone can understand.",
+        "copy-content": "Well... As you read, I'm a <strong>web developer</strong> formed in Universidad de La Sabana in Bogotá - Colombia where I'm currently located. I'm a big fan of building the <strong>front-end</strong> part of a web page, and also really into solving challenges from it. I'm very curious about learning new technologies and passionate from writing code that everyone can understand."
+    },
+    "footer": {
+        "copyrightText": "Copyright",
+        "yearWritten": "2023 ecradev All rights reserved"
+    }
+}
