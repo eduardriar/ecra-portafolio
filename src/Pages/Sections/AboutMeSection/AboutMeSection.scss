@@ -66,10 +66,7 @@
         .about-me-image {
             width: 15em;
             height: 15em;
-            background-image: url('../../../Assets/Images/AboutMeSection/IMG_3689.jpg');
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
+            object-fit: cover;
             border-radius: 50%;
             box-shadow: -10px 20px 15px rgb(138, 138, 138);
         }

@@ -60,8 +60,6 @@
 
 /*! ../../../../node_modules/css-loader/dist/runtime/sourceMaps.js */
 
-/*! ../../../Assets/Images/AboutMeSection/IMG_3689.jpg */
-
 /*! ../../Components/ArrowAnimated/ArrowAnimated */
 
 /*! ../../Components/CopyRight/CopyRight */
@@ -191,10 +189,6 @@
 /*!******************************************************!*\
   !*** ./src/Pages/Components/CopyRight/CopyRight.jsx ***!
   \******************************************************/
-
-/*!*******************************************************!*\
-  !*** ./src/Assets/Images/AboutMeSection/IMG_3689.jpg ***!
-  \*******************************************************/
 
 /*!********************************************************!*\
   !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!

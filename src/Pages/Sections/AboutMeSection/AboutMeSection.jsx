@@ -15,7 +15,7 @@ class AboutMeSection extends React.Component {
                         <p>{ aboutMeText.content}</p>
                     </div>
                     <div className='about-me-section-image'>
-                        <img src="" alt="" className='about-me-image' />
+                        <img src={aboutMeText.imageUrl} alt="Photo of mine, person who developed this site. He's very handsome!" className='about-me-image' />
                     </div>
                 </div>
             </section>
