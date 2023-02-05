@@ -2,7 +2,7 @@
     width: 100%;
     height: 94px;
     position: relative;
-    top: 80%;
+    top: 70vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -65,8 +65,9 @@
 
     span {
         color: #dfdfdf;
-        font-family: fantasy;
+        font-family: 'CourierNewPS-BoldMT', 'Courier New';
+        font-weight: bold;
         margin-top: 10px;
-        letter-spacing: 6px;
+        letter-spacing: 2px;
     }
 }

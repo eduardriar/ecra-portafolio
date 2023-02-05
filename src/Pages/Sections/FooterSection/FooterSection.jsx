@@ -6,8 +6,10 @@ import "./FooterSection.scss";
 class FooterSection extends React.Component {
 
   render(){
-    const footerText = this.context.footer;
+    const footerText = this.context.footer,
+      socialMediaArray = this.context.socialMedia;
 
+      console.log(socialMediaArray);
     return (
       <section className="footer-section">
         <div className="copyright-section">
@@ -19,7 +21,14 @@ class FooterSection extends React.Component {
             { footerText.yearWritten }
           </p>
         </div>
-        <div className="social-media-section"></div>
+        <div className="social-media-section">
+          {socialMediaArray.map((item, index) => (
+            <a href={item.url}>
+              <div className="social-media-item" style={{backgroundImage: `url('${item.logoUrl}')`}} key={`social-${index}`}></div>
+            </a>
+            ))
+          }
+        </div>
       </section>
     );
   }

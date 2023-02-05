@@ -9,9 +9,15 @@ class AboutMeSection extends React.Component {
 
         return (
             <section className='about-me-section'>
-                <h1>{ aboutMeText.title }</h1>
-                <p>{ aboutMeText.content}</p>
-                <div className='about-me-section-image'></div>
+                <div className='about-me-section-container'>
+                    <div className='about-me-section-content'>
+                        <h1>{ aboutMeText.title }</h1>
+                        <p>{ aboutMeText.content}</p>
+                    </div>
+                    <div className='about-me-section-image'>
+                        <img src="" alt="" className='about-me-image' />
+                    </div>
+                </div>
             </section>
         )
     }
