@@ -1,0 +1,327 @@
+/*! !!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/sass-loader/dist/cjs.js!./AboutMeSection.scss */
+
+/*! !!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/sass-loader/dist/cjs.js!./ArrowAnimated.scss */
+
+/*! !!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/sass-loader/dist/cjs.js!./FooterSection.scss */
+
+/*! !!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/sass-loader/dist/cjs.js!./SpriteSheet.scss */
+
+/*! !!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/sass-loader/dist/cjs.js!./WelcomeSection.scss */
+
+/*! !!../../node_modules/css-loader/dist/cjs.js!../../node_modules/sass-loader/dist/cjs.js!./App.scss */
+
+/*! !!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./Globals.scss */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/insertBySelector.js */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/styleTagTransform.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/insertBySelector.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/styleTagTransform.js */
+
+/*! !./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !./node_modules/style-loader/dist/runtime/insertBySelector.js */
+
+/*! !./node_modules/style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !./node_modules/style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !./node_modules/style-loader/dist/runtime/styleTagTransform.js */
+
+/*! ../../../../../../src/Assets/Fonts/CourierNewPS-BoldMT.woff */
+
+/*! ../../../../../../src/Assets/Fonts/CourierNewPS-BoldMT.woff2 */
+
+/*! ../../../../../../src/Assets/Images/SpriteSheetSectionSVG/spriteSheet320-1.svg */
+
+/*! ../../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../../node_modules/css-loader/dist/runtime/getUrl.js */
+
+/*! ../../../../node_modules/css-loader/dist/runtime/sourceMaps.js */
+
+/*! ../../../Assets/Images/AboutMeSection/IMG_3689.jpg */
+
+/*! ../../Components/ArrowAnimated/ArrowAnimated */
+
+/*! ../../Components/CopyRight/CopyRight */
+
+/*! ../../Components/SpriteSheet/SpriteSheet */
+
+/*! ../../Context/Context */
+
+/*! ../../copies.json */
+
+/*! ../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */
+
+/*! ../../node_modules/css-loader/dist/runtime/sourceMaps.js */
+
+/*! ../AboutMeSection/AboutMeSection.scss */
+
+/*! ../Globals.scss */
+
+/*! ../copies.json */
+
+/*! ./App.scss */
+
+/*! ./ArrowAnimated.scss */
+
+/*! ./Context/Context */
+
+/*! ./FooterSection.scss */
+
+/*! ./Pages/App.jsx */
+
+/*! ./Sections/AboutMeSection/AboutMeSection */
+
+/*! ./Sections/FooterSection/FooterSection */
+
+/*! ./Sections/WelcomeSection/WelcomeSection */
+
+/*! ./SpriteSheet.scss */
+
+/*! ./WelcomeSection.scss */
+
+/*! ./cjs/react-dom.development.js */
+
+/*! ./cjs/react-jsx-runtime.development.js */
+
+/*! ./cjs/react.development.js */
+
+/*! ./cjs/scheduler.development.js */
+
+/*! ./node_modules/css-loader/dist/runtime/api.js */
+
+/*! ./node_modules/css-loader/dist/runtime/getUrl.js */
+
+/*! ./node_modules/css-loader/dist/runtime/sourceMaps.js */
+
+/*! react */
+
+/*! react-dom */
+
+/*! react-dom/client */
+
+/*! react/jsx-runtime */
+
+/*! scheduler */
+
+/*!**********************!*\
+  !*** ./Globals.scss ***!
+  \**********************/
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!*************************!*\
+  !*** ./src/copies.json ***!
+  \*************************/
+
+/*!***************************!*\
+  !*** ./src/Pages/App.jsx ***!
+  \***************************/
+
+/*!****************************!*\
+  !*** ./src/Pages/App.scss ***!
+  \****************************/
+
+/*!*************************************!*\
+  !*** ./node_modules/react/index.js ***!
+  \*************************************/
+
+/*!***************************************!*\
+  !*** ./src/Pages/Context/Context.jsx ***!
+  \***************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/react-dom/index.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/scheduler/index.js ***!
+  \*****************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/react-dom/client.js ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/react/jsx-runtime.js ***!
+  \*******************************************/
+
+/*!***************************************************!*\
+  !*** ./src/Assets/Fonts/CourierNewPS-BoldMT.woff ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./src/Assets/Fonts/CourierNewPS-BoldMT.woff2 ***!
+  \****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/react/cjs/react.development.js ***!
+  \*****************************************************/
+
+/*!******************************************************!*\
+  !*** ./src/Pages/Components/CopyRight/CopyRight.jsx ***!
+  \******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./src/Assets/Images/AboutMeSection/IMG_3689.jpg ***!
+  \*******************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
+  \********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./src/Pages/Components/SpriteSheet/SpriteSheet.jsx ***!
+  \**********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./src/Pages/Components/SpriteSheet/SpriteSheet.scss ***!
+  \***********************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/sourceMaps.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./src/Pages/Sections/FooterSection/FooterSection.jsx ***!
+  \************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./src/Pages/Sections/FooterSection/FooterSection.scss ***!
+  \*************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./src/Pages/Components/ArrowAnimated/ArrowAnimated.jsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./src/Pages/Sections/AboutMeSection/AboutMeSection.jsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./src/Pages/Sections/WelcomeSection/WelcomeSection.jsx ***!
+  \**************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/Pages/Components/ArrowAnimated/ArrowAnimated.scss ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/Pages/Sections/AboutMeSection/AboutMeSection.scss ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/Pages/Sections/WelcomeSection/WelcomeSection.scss ***!
+  \***************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react/cjs/react-jsx-runtime.development.js ***!
+  \*****************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./src/Assets/Images/SpriteSheetSectionSVG/spriteSheet320-1.svg ***!
+  \**********************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+  \**********************************************************************************/
+
+/*!***************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./Globals.scss ***!
+  \***************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/App.scss ***!
+  \*********************************************************************************************************/
+
+/*!****************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/Components/SpriteSheet/SpriteSheet.scss ***!
+  \****************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/Sections/FooterSection/FooterSection.scss ***!
+  \******************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/Components/ArrowAnimated/ArrowAnimated.scss ***!
+  \********************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/Sections/AboutMeSection/AboutMeSection.scss ***!
+  \********************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Pages/Sections/WelcomeSection/WelcomeSection.scss ***!
+  \********************************************************************************************************************************************/
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
