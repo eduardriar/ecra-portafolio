@@ -7,15 +7,15 @@
     },
     "socialMedia": [
         {   
-            "logoUrl": "assets/images/SocialMedia/linkedin-icon-1.svg",
+            "logoUrl": "./assets/images/SocialMedia/linkedin-icon-1.svg",
             "url": "https://www.linkedin.com/in/eduardrincon/"
         },
         {
-            "logoUrl": "assets/images/SocialMedia/github-icon.svg",
+            "logoUrl": "./assets/images/SocialMedia/github-icon.svg",
             "url": "https://github.com/eduardriar"
         },
         {
-            "logoUrl": "assets/images/SocialMedia/instagram-icon.svg",
+            "logoUrl": "./assets/images/SocialMedia/instagram-icon.svg",
             "url": "https://www.instagram.com/ecra98__"
         }   
     ],
