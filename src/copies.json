@@ -1,0 +1,26 @@
+{
+    "aboutMe": {
+        "title": "Hello! I'm Eduard Rincon, and I'm a front-end developer",
+        "content": "Allow me to introduce my self, as you read I'm a front-end developer located in Colombia with +3 years of experience developing web applications using Javascript and React JS. I have been part of a web application development for social media, and bank companies where I sought to improve the design, use best practices, and create pages as accessible as possible. Passionate for learning new technologies, and being collaborative with team members. Finally, I aim to contribute to world-class web applications and keep learning for the process it involves.",
+        "title-copy": "My name is Eduard Rincon, and I'm a web developer",
+        "copy-content": "Well... As you read, I'm a <strong>web developer</strong> formed in Universidad de La Sabana in Bogotá - Colombia where I'm currently located. I'm a big fan of building the <strong>front-end</strong> part of a web page, and also really into solving challenges from it. I'm very curious about learning new technologies and passionate from writing code that everyone can understand."
+    },
+    "socialMedia": [
+        {   
+            "logoUrl": "../../../Assets/Images/SocialMedia/linkedin-icon-1.svg",
+            "url": "https://www.linkedin.com/in/eduardrincon/"
+        },
+        {
+            "logoUrl": "../../../Assets/Images/SocialMedia/github-icon.svg",
+            "url": "https://github.com/eduardriar"
+        },
+        {
+            "logoUrl": "../../../Assets/Images/SocialMedia/instagram-icon.svg",
+            "url": "https://www.instagram.com/ecra98__"
+        }   
+    ],
+    "footer": {
+        "copyrightText": "Copyright",
+        "yearWritten": "2023 ecradev All rights reserved"
+    }
+}

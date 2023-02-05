@@ -1,7 +1,11 @@
 const path = require('path'),
     HtmlWebPackPlugin = require('html-webpack-plugin'),
     MiniCssExtractPlugin = require('mini-css-extract-plugin'),
-    CopyWebpackPlugin = require('copy-webpack-plugin');
+    CopyWebpackPlugin = require('copy-webpack-plugin'),
+    CssMinimizerPlugin = require('css-minimizer-webpack-plugin'),
+    TerserPlugin = require('terser-webpack-plugin'),
+    Dotenv = require('dotenv-webpack'),
+    { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
@@ -92,12 +96,15 @@ module.exports = {
                     to: 'assets/images'
                 }
             ]
-        })
+        }),
+        new Dotenv(),
+        new CleanWebpackPlugin()
     ],
-    devServer: {
-        static: path.join(__dirname, 'dist'),
-        compress: true,
-        port: 3006,
-        open: true
+    optimization: {
+        minimize: true,
+        minimizer: [
+            new CssMinimizerPlugin(),
+            new TerserPlugin()
+        ]
     }
 }
